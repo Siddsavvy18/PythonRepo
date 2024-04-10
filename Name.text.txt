@@ -1,1 +1,1 @@
-Hi, Siddhesh Dhanawade
+Learing Git commit through git bash
